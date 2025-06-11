@@ -56,5 +56,21 @@ Artificial dataset generated with **1,000,050** entries, mimicking real-world tr
 
 ---
 
+## Visualizations
+
+### 1. Transaction Types count
+![Count Plot](./images/transaction_count.png)
+
+### 2. Distribution of Transaction Amount
+![Histogram Plot](./images/transaction_amount_distribution.png)
+
+### 3. Model Accuracy Comparison
+![Bar Plot](./images/model_accuray.png)
+
+### 4. Comparison of Actual vs. Predicted Class Counts by Model
+![Bar Plot](./images/act_pred.png)
+
+### 5. Treemap of Total Transaction Amount by Merchant
+![Treemap](./images/treemap.png)
 
 
