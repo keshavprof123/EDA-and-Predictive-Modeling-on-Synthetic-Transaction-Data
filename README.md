@@ -65,7 +65,7 @@ Artificial dataset generated with **1,000,050** entries, mimicking real-world tr
 ![Histogram Plot](./images/transaction_amount_distribution.png)
 
 ### 3. Model Accuracy Comparison
-![Bar Plot](./images/model_accuray.png)
+![Bar Plot](./images/model_accuracy.png)
 
 ### 4. Comparison of Actual vs. Predicted Class Counts by Model
 ![Bar Plot](./images/act_pred.png)
